@@ -1,6 +1,7 @@
 # Hi!! I'm SupuGH, and welcome to my profile page.
 
 - I'm 17 years old and i'm studying Web Development.
+- I love to play videogames and play music.
 
 <br>
 
