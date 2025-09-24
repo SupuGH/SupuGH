@@ -6,7 +6,6 @@
 <br>
 
 - Here I'll post some projects that i do, also some things that I made in class.
-- I'll put to public every course that i do when i finish it.
 
 # My Discord profile
 [![Discord Presence](https://lanyard.cnrad.dev/api/559816407924342787)](https://discord.com/users/559816407924342787)
